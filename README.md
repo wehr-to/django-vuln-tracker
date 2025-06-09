@@ -1,6 +1,6 @@
 ## Django Vulnerability Reporting Tracker
 
-## Purpose
+# Purpose
 A web-based ticketing system where internal users can report and triage security vulnerabilities (e.g., XSS, CSRF) found in internal apps or pentests.
 
 ## Tech Stack
